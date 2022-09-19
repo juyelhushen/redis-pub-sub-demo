@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Redis-Publisher/Redis-Publisher.iml" filepath="$PROJECT_DIR$/Redis-Publisher/Redis-Publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/redis.iml" filepath="$PROJECT_DIR$/.idea/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-subscriber/redis-subscriber.iml" filepath="$PROJECT_DIR$/redis-subscriber/redis-subscriber.iml" />
+    </modules>
+  </component>
+</project>
